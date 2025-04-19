@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CAFF7&width=435&lines=Ceber+Security+Analyzer;IIOT+Researcher+;DevOps)
+![test](https://github.com/user-attachments/assets/3e0959a1-e18e-4c31-a115-b0b255688973)
